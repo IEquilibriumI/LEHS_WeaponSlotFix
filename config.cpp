@@ -10,7 +10,6 @@ class CfgPatches
 			"DZ_Data",
 			"DZ_Characters",
 			"TombstoneBM", //TombstoneBasicMap
-			"mmg_storage", //MMGStorage
 			"ns_dayz_gear_lehs",
 			"namalsk_survival",
 			"clothing_a" //TacticalFlava
@@ -68,8 +67,7 @@ class cfgWeapons
 			"Shoulder27",
 			"Shoulder28",
 			"Shoulder29",
-			"Shoulder30",
-			"WeaponBoxShoulder" //MMGStorage
+			"Shoulder30"
 		};
 	};	
 };
